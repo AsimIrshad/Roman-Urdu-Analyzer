@@ -1,0 +1,672 @@
+[
+{
+	"UrduWord":"انشاءاللہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"inshaallah",
+				"Word2":"inshallah"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"صاف",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"saaf",
+				"Word2":"saif"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"صلح",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"sulah",
+				"Word2":"sulaah"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"سادگی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"saadgi",
+				"Word2":"sadgi"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تعمیر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"tameer",
+				"Word2":"taameer"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"تنقید",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"tanqeed",
+				"Word2":"tanqid"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"طاقت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"taaqat",
+				"Word2":"taqat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"طعنہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"taina",
+				"Word2":"tana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"اداس",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"udass",
+				"Word2":"udas"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"اکسانہ",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"uksana",
+				"Word2":"uksana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"الجھنا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"uljhaana",
+				"Word2":"uljhana"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"واہ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"wah",
+				"Word2":"wh"
+			}
+	]
+	
+
+},{
+	"UrduWord":"شکر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"shukr",
+				"Word2":"shukar"
+			}
+	]
+	
+
+},{
+	"UrduWord":"راحت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"rahat",
+				"Word2":"raahat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"ساتھ",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"sath",
+				"Word2":"saath"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"حقیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haqeer",
+				"Word2":"hakeer"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حرام",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haram",
+				"Word2":"haraam"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"حقیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"haqeer",
+				"Word2":"hakeer"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہمکنار",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"hamkunar",
+				"Word2":"humkunar"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہلکا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"halka",
+				"Word2":"hulka"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"ہمراز",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"hamraaz",
+				"Word2":"humraaz"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"گھر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ghar",
+				"Word2":"ghr"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"گہرا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"gehra",
+				"Word2":"ghera"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"غربت",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghurbat",
+				"Word2":"ghorbat"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"غریب",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ghareeb",
+				"Word2":"gharib"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"فتنہ",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"fitna",
+				"Word2":"fetna"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"فقیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"faqeer",
+				"Word2":"faker"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"اختیار",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ekhtayar",
+				"Word2":"ekhtiyar"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"فوجی",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"fauji",
+				"Word2":"fuji"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"اہم",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ehm",
+				"Word2":"eham"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"اختتام",
+	"PartOfSpeech":"noun",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ekht'tam",
+				"Word2":"ekhtatam"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"انحصار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ensaar",
+				"Word2":"enhsaar"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"دیا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"diya",
+				"Word2":"dya"
+				
+			}
+	]
+		
+
+},
+
+{
+	"UrduWord":"دھوکا",
+	"PartOfSpeech":"noun",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dhoka",
+				"Word2":"dhooka"
+				
+			}
+	]
+		
+
+},
+
+
+{
+	"UrduWord":"دیر",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"dayr",
+				"Word2":"dair"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"بڑا",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"bara",
+				"Word2":"bara"
+				
+			}
+	]
+		
+
+},
+{
+	"UrduWord":"امداد",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"imdad",
+				"Word2":"imdaad"
+			}
+	]
+},
+{
+	"UrduWord":"ایماندار",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"imandaar",
+				"Word2":"emaandaar"
+			}
+	]
+},
+{
+	"UrduWord":"علم",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ilm",
+				"Word2":"elm"
+			}
+	]
+},
+{
+	"UrduWord":"الزام",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"ilzaam",
+				"Word2":"elzaam"
+			}
+	]
+},
+{
+	"UrduWord":"افتتاح",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"iftatah",
+				"Word2":"ifteteh"
+			}
+	]
+},
+{
+	"UrduWord":"عبادت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"ibadat",
+				"Word2":"ibaadat"
+			}
+	]
+},
+{
+	"UrduWord":"ابلیس",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"iblees",
+				"Word2":"eblees"
+			}
+	]
+},
+{
+	"UrduWord":"انعام",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"inam",
+				"Word2":"inaam"
+			}
+	]
+},
+{
+	"UrduWord":"انصاف",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"insaaf",
+				"Word2":"insaf"
+			}
+	]
+},
+{
+	"UrduWord":"عزت",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":" izat",
+				"Word2":"ezat"
+			}
+	]
+	
+
+},
+{
+	"UrduWord":"جلنا",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jalna",
+				"Word2":"julna"
+			}
+	]
+},
+{
+	"UrduWord":"جواری",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"jawari",
+				"Word2":"juwari"
+			}
+	]
+},
+{
+	"UrduWord":"جابر",
+	"PartOfSpeech":"adjective",
+	"Category":1,
+	"Roman":[
+			{
+				"Word1":"jaabir",
+				"Word2":"jabir"
+			}
+	]
+},
+{
+	"UrduWord":"جرم",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"juram",
+				"Word2":"jurm"
+			}
+	]
+},
+{
+	"UrduWord":"جہنمی",
+	"PartOfSpeech":"adjective",
+	"Category":2,
+	"Roman":[
+			{
+				"Word1":"juhanami",
+				"Word2":"jahunnami"
+			}
+	]
+},
+]
